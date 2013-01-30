@@ -31,6 +31,7 @@
     <Folder Include="styles\img" />
   </ItemGroup>
   <ItemGroup>
+    <Resource Include="App_Resources\iOS\Default-568h@2x.png" />
     <Resource Include="App_Resources\iOS\icon.png" />
     <Resource Include="App_Resources\iOS\icon@2x.png" />
     <Resource Include="App_Resources\iOS\icon-72.png" />
