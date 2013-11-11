@@ -16,7 +16,7 @@
     <AndroidVersionCode>1</AndroidVersionCode>
     <AndroidHardwareAcceleration>false</AndroidHardwareAcceleration>
     <FrameworkVersion>3.0.0</FrameworkVersion>
-    <CorePlugins>org.apache.cordova.core.file;org.apache.cordova.core.splashscreen;org.apache.cordova.core.media-capture</CorePlugins>
+    <CorePlugins>org.apache.cordova.device;org.apache.cordova.file;org.apache.cordova.media-capture;org.apache.cordova.splashscreen</CorePlugins>
   </PropertyGroup>
   <Import Project="$(MSBuildExtensionsPath)\Telerik\ICE\Tools\Mobile\MobileTools.targets" />
 </Project>
