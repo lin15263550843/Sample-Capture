@@ -5,6 +5,7 @@ function id(element) {
 }
 
 function onDeviceReady() {
+    navigator.splashscreen.hide();
     captureApp = new captureApp();
     captureApp.run();
 }
