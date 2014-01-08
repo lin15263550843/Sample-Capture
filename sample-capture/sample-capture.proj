@@ -15,7 +15,7 @@
     <iOSBackgroundMode />
     <AndroidVersionCode>1</AndroidVersionCode>
     <AndroidHardwareAcceleration>false</AndroidHardwareAcceleration>
-    <FrameworkVersion>3.0.0</FrameworkVersion>
+    <FrameworkVersion>3.2.0</FrameworkVersion>
     <CorePlugins>org.apache.cordova.device;org.apache.cordova.file;org.apache.cordova.media-capture;org.apache.cordova.splashscreen</CorePlugins>
   </PropertyGroup>
   <Import Project="$(MSBuildExtensionsPath)\Telerik\ICE\Tools\Mobile\MobileTools.targets" />
