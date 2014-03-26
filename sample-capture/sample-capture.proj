@@ -16,7 +16,9 @@
     <AndroidVersionCode>1</AndroidVersionCode>
     <AndroidHardwareAcceleration>false</AndroidHardwareAcceleration>
     <FrameworkVersion>3.2.0</FrameworkVersion>
-    <CorePlugins>org.apache.cordova.device;org.apache.cordova.file;org.apache.cordova.media-capture;org.apache.cordova.splashscreen</CorePlugins>
+    <CorePlugins>org.apache.cordova.media-capture;org.apache.cordova.device;org.apache.cordova.file;org.apache.cordova.splashscreen</CorePlugins>
+    <DisplayName />
+    <WP8SupportedResolutions>ID_RESOLUTION_WVGA;ID_RESOLUTION_WXGA;ID_RESOLUTION_HD720P</WP8SupportedResolutions>
   </PropertyGroup>
   <Import Project="$(MSBuildExtensionsPath)\Telerik\ICE\Tools\Mobile\MobileTools.targets" />
 </Project>
