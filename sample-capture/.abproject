@@ -3,7 +3,6 @@
   "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
   "AppIdentifier": "com.telerik.samplecapture",
   "ProjectName": "sample-capture",
-  "IsRunnable": "true",
   "AndroidPermissions": [
     "android.permission.CAMERA",
     "android.permission.VIBRATE",
@@ -31,7 +30,6 @@
     "1",
     "2"
   ],
-  "iOSBackgroundMode": [],
   "AndroidVersionCode": "1",
   "AndroidHardwareAcceleration": "false",
   "FrameworkVersion": "3.5.0",
