@@ -38,13 +38,18 @@
 		"org.apache.cordova.file",
 		"org.apache.cordova.splashscreen"
 	],
-	"DisplayName": "sample-capture",
+	"DisplayName": "Capture",
 	"WP8SupportedResolutions": [
 		"ID_RESOLUTION_WVGA",
 		"ID_RESOLUTION_WXGA",
 		"ID_RESOLUTION_HD720P"
 	],
 	"Author": "",
+	"WP8Publisher": "",
+	"WP8TileTitle": "",
+	"WP8Capabilities": [],
+	"iOSBackgroundMode": [],
+	"WP8Requirements": [],
 	"Description": "sample-capture",
 	"Framework": "Cordova",
 	"projectVersion": 1
