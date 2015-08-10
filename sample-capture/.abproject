@@ -40,9 +40,9 @@
 	],
 	"DisplayName": "Capture",
 	"WP8SupportedResolutions": [
+		"ID_RESOLUTION_HD720P",
 		"ID_RESOLUTION_WVGA",
-		"ID_RESOLUTION_WXGA",
-		"ID_RESOLUTION_HD720P"
+		"ID_RESOLUTION_WXGA"
 	],
 	"Author": "",
 	"WP8Publisher": "",
@@ -52,5 +52,9 @@
 	"WP8Requirements": [],
 	"Description": "sample-capture",
 	"Framework": "Cordova",
-	"projectVersion": 1
+	"projectVersion": 1,
+	"WP8PublisherID": "{c6e44783-7a64-41e4-aa68-b9a8ada4975d}",
+	"WP8ProductID": "{f9386daf-5754-4849-a0c3-d648a8378fe8}",
+	"WP8PackageIdentityName": "1234Telerik.com.telerik.samplecapture",
+	"WP8WindowsPublisherName": "CN=Telerik"
 }
