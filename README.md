@@ -33,7 +33,7 @@ This sample shows how to use the following methods of the [Media Capture API][Me
 
 Platform | Home
 ---|---|---
-All | ![](https://github.com/Icenium/sample-capture/blob/master/screenshots/home.jpg)
+All | ![](https://raw.githubusercontent.com/Icenium/sample-capture/master/screenshots/home.jpg)
 
 [Back to Top](#top)
 
