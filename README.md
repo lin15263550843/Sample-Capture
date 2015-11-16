@@ -4,7 +4,6 @@ Media Capture
 
 <a id="top"></a>
 * [Overview](#overview)
-* [Showcased APIs](#showcased-apis)
 * [Screenshots](#screenshots)
 * [Test the Sample](#test-the-sample)
 * [Limitations](#limitations)
@@ -16,16 +15,6 @@ This sample shows you how to use the Media Capture core plugin to access the bui
 > *Supported mobile platforms:* iOS, Android, Windows Phone
 >
 > *Developed with:* Apache Cordova 3.7.0
-
-[Back to Top](#top)
-
-# Showcased APIs
-
-This sample shows how to use the following methods of the [Media Capture API][Media Capture API].
-
-* **capture.captureAudio():** Records an audio file with the audio recorder app of the device and returns a collection of `MediaFiles` objects to the success handler or `CaptureError` objects to the error handler. This method takes as third argument `CaptureAudioOptions` objects.
-* **capture.captureImage():** Captures an image file with the camera app of the device and returns collection of `MediaFiles` objects to the success handler or `CaptureError` objects to the error handler. This method takes as third argument `CaptureImageOptions` objects.
-* **capture.captureVideo():** Records a video file with the video recorder app of the device and returns a collection of `MediaFiles` objects to the success handler or `CaptureError` objects to the error handler. This method takes as third argument `CaptureVideoOptions` objects.
 
 [Back to Top](#top)
 
@@ -151,4 +140,3 @@ With the AppBuilder command-line interface, you can quickly test your apps on de
 [QR code]: http://docs.telerik.com/platform/appbuilder/testing-your-app/running-on-devices/deploy-remote
 [USB deploy]: http://docs.telerik.com/platform/appbuilder/testing-your-app/running-on-devices/running-on-connected-devices/deploy-connected
 [emulators]: http://docs.telerik.com/platform/appbuilder/testing-your-app/running-in-emulators/native-emulators
-[Media Capture API]: https://www.npmjs.com/package/cordova-plugin-media-capture

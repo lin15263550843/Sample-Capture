@@ -5,3 +5,4 @@ description: This sample shows you how to use the Media Capture Apache Cordova c
 tags: Apache Cordova, core, capture, media, audio, video, image, iOS, Android, Windows Phone
 publish: true
 content_filter: true
+apis: cordova.capture cordova.capture.captureAudio cordova.capture.captureImage cordova.capture.captureVideo
