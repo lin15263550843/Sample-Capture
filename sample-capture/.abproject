@@ -1,62 +1,49 @@
 {
-	"ProjectGuid": "5b83d18f-2b44-4511-8261-7d3e84be5f5c",
-	"ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
-	"AppIdentifier": "com.telerik.samplecapture",
-	"ProjectName": "sample-capture",
-	"AndroidPermissions": [
-		"android.permission.CAMERA",
-		"android.permission.VIBRATE",
-		"android.permission.ACCESS_COARSE_LOCATION",
-		"android.permission.ACCESS_FINE_LOCATION",
-		"android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
-		"android.permission.READ_PHONE_STATE",
-		"android.permission.INTERNET",
-		"android.permission.RECEIVE_SMS",
-		"android.permission.RECORD_AUDIO",
-		"android.permission.MODIFY_AUDIO_SETTINGS",
-		"android.permission.READ_CONTACTS",
-		"android.permission.WRITE_CONTACTS",
-		"android.permission.WRITE_EXTERNAL_STORAGE",
-		"android.permission.ACCESS_NETWORK_STATE"
-	],
-	"DeviceOrientations": [
-		"Portrait",
-		"Landscape"
-	],
-	"iOSStatusBarStyle": "Default",
-	"BundleVersion": "1.0",
-	"iOSDeviceFamily": [
-		"1",
-		"2"
-	],
-	"AndroidVersionCode": "1",
-	"AndroidHardwareAcceleration": "true",
-	"FrameworkVersion": "4.0.0",
-	"CorePlugins": [
-		"cordova-plugin-media-capture",
-		"cordova-plugin-device",
-		"cordova-plugin-file",
-		"cordova-plugin-splashscreen",
-		"cordova-plugin-whitelist"
-	],
-	"DisplayName": "Capture",
-	"WP8SupportedResolutions": [
-		"ID_RESOLUTION_HD720P",
-		"ID_RESOLUTION_WVGA",
-		"ID_RESOLUTION_WXGA"
-	],
-	"Author": "",
-	"WP8Publisher": "",
-	"WP8TileTitle": "",
-	"WP8Capabilities": [],
-	"iOSBackgroundMode": [],
-	"WP8Requirements": [],
-	"Description": "sample-capture",
-	"Framework": "Cordova",
-	"projectVersion": 1,
-	"WP8PublisherID": "{c6e44783-7a64-41e4-aa68-b9a8ada4975d}",
-	"WP8ProductID": "{f9386daf-5754-4849-a0c3-d648a8378fe8}",
-	"WP8PackageIdentityName": "1234Telerik.com.telerik.samplecapture",
-	"WP8WindowsPublisherName": "CN=Telerik",
-	"WPSdk": "8.1"
+  "ProjectGuid": "5b83d18f-2b44-4511-8261-7d3e84be5f5c",
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "AppIdentifier": "com.telerik.samplecapture",
+  "ProjectName": "sample-capture",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "iOSStatusBarStyle": "Default",
+  "BundleVersion": "1.0",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "AndroidVersionCode": "1",
+  "AndroidHardwareAcceleration": "true",
+  "FrameworkVersion": "4.0.0",
+  "CorePlugins": [
+    "cordova-plugin-media-capture",
+    "cordova-plugin-device",
+    "cordova-plugin-file",
+    "cordova-plugin-splashscreen",
+    "cordova-plugin-whitelist"
+  ],
+  "DisplayName": "Capture",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_HD720P",
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA"
+  ],
+  "Author": "",
+  "WP8Publisher": "",
+  "WP8TileTitle": "",
+  "WP8Capabilities": [],
+  "iOSBackgroundMode": [],
+  "WP8Requirements": [],
+  "Description": "sample-capture",
+  "Framework": "Cordova",
+  "projectVersion": 1,
+  "WP8PublisherID": "{c6e44783-7a64-41e4-aa68-b9a8ada4975d}",
+  "WP8ProductID": "{f9386daf-5754-4849-a0c3-d648a8378fe8}",
+  "WP8PackageIdentityName": "1234Telerik.com.telerik.samplecapture",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WPSdk": "8.1"
 }

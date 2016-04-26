@@ -1,31 +1,38 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
 	<head>
-		<title>Capture Demo</title>
 		<meta charset="utf-8">
-		<link rel="stylesheet" href="styles/main.css" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+		<link rel="stylesheet" href="styles/theme.css" />
 		<script type="text/javascript" charset="utf-8" src="cordova.js"></script>
 		<script type="text/javascript" charset="utf-8" src="scripts/main.js"></script>
 	</head>
 	<body>
-		<header class="header">
-			<h1>Capture Sample</h1>
-		</header>
-        <div class="content">
-            <div class="action-area ch50">
-                <button class="button dh" id="captureVideo">Capture Video</button>
-			    <button class="button dh" id="captureAudio">Capture Audio</button>
-                <button class="button dh" id="captureImage">Capture Image</button>
-			</div>
-            <div class="result-area ch50">
-                <div class="results">
-                    <div id="media"></div>
-                </div>
-				<div class="separator"></div>
-			</div>
+        <div class="header">
+            <h1>Capture Sample</h1>
         </div>
-        <footer class="footer">
-		    <div>Cordova API Samples</div>
-	    </footer>
-	</body>
+        <div class="subheader">
+            <div class="row">
+                <div class="col">
+                    <button class="button " id="captureVideo">Capture Video</button>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <button class="button" id="captureAudio">Capture Audio</button>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <button class="button" id="captureImage">Capture Image</button>
+                </div>
+            </div>
+        </div>
+        <div class="content">
+            <div id="media"></div>
+        </div>
+        <div class="footer">
+            <span>Feature Examples</span>
+        </div>
+</body>
 </html>
