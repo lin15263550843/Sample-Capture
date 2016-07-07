@@ -22,7 +22,7 @@ This sample shows you how to use the Media Capture core plugin to access the bui
 
 Platform | Home
 ---|---|---
-All | ![](screenshots/home.jpg)
+All | ![](https://raw.githubusercontent.com/Icenium/Sample-Capture/master/screenshots/home.jpg)
 
 [Back to Top](#top)
 
