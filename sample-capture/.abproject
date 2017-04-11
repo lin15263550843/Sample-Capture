@@ -18,7 +18,7 @@
   ],
   "AndroidVersionCode": "1",
   "AndroidHardwareAcceleration": "true",
-  "FrameworkVersion": "4.0.0",
+  "FrameworkVersion": "6.4.0",
   "CorePlugins": [
     "cordova-plugin-media-capture",
     "cordova-plugin-device",
